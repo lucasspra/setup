@@ -1,0 +1,29 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.fontFamily": "Dank Mono",
+  "editor.fontLigatures": true,
+  "extensions.ignoreRecommendations": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "sort-imports.on-save": false,
+  "editor.minimap.enabled": false,
+  "explorer.confirmDelete": false,
+  "files.autoSave": "afterDelay",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "workbench.panel.defaultLocation": "right",
+  "editor.linkedEditing": true,
+  "editor.tabSize": 2,
+  "workbench.colorTheme": "Night Owl",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.fontSize": 16,
+  "editor.wordWrap": "on",
+  "window.zoomLevel": 1
+}
